@@ -1,0 +1,10 @@
+@charset "utf-8";
+/*全てのWebページに適用される*/
+
+body{
+    background-color:sienna;
+}
+
+h2{
+    color:#442220;
+}
